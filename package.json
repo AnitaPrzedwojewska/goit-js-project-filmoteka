@@ -2,7 +2,7 @@
   "name": "goit-projekt-filmoteka",
   "version": "0.3.16-aprove",
   "description": "",
-  "homepage": "https://krzysztof-goit.github.io/goit-projekt-filmoteka/",
+  "homepage": "https://AnitaPrzedwojewska.github.io/goit-js-project-filmoteka/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --no-scope-hoist --no-optimize --public-url /goit-projekt-filmoteka/",
@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://krzysztof-goit.github.io/goit-projekt-filmoteka.git"
+    "url": "git+https://AnitaPrzedwojewska.github.io/goit-js-project-filmoteka.git"
   },
   "keywords": [],
-  "author": "GRUPA 1 <krzysztof-goit@fabrykait.net>",
+  "author": "GRUPA 1 - PM <krzysztof-goit@fabrykait.net>",
   "license": "ISC",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.12.0",
